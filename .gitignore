@@ -1,0 +1,11 @@
+/build/
+/bin/
+/data/
+*.exe
+*.o
+*.obj
+*.out
+.vscode/
+*.tmp
+*.bak
+.DS_Store
